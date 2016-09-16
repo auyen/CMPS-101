@@ -1,0 +1,3 @@
+selection sort: more than an hour
+insertion sort: more than an hour
+merge sort: 17.5 seconds

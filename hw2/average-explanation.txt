@@ -1,0 +1,8 @@
+For the average, we took increments of n = 200 from n = 200 to n = 10000. The average sorted plot 
+most resembled the all-unsorted plot. Selection sort was almost twice as fast as insertion sort in 
+both the unsorted and the random sorted plots. Merge sort was the fastest in the unsorted and random 
+sorted plots as well. The reason why both selection and insertion are much slower than merge is that
+those two algorithms do more comparisons and swapping.
+
+When we ran the same randomizer algorithm on a different computer, selection was slower than insertion sort.
+We believe the real cause is the difference in CPUs.

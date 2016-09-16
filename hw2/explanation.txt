@@ -1,0 +1,23 @@
+For insertion sort, the forward sorted array ran in almost 0 time. When the array is sorted, 
+the algorithm only runs through it once, giving it a run time of O(n). When the array is in 
+reverse, the outer loop and the inner loop both run n times, giving it a run time of O(n^2).
+The plot showed the reverse sorted array having a much greater time as n increased.
+
+The selection sort plot showed both forward and reverse times increasing at around the same rate
+as n increased. This is because selection sort has a time complexity of O(n^2) because it runs both 
+inner and outer loops n times no matter how the array is sorted.
+
+The merge sort plot was relatively linear and both forward and reverse times were very close. 
+This is because merge sort has a time complexity of O(n log n), and the n log n graph is nearly
+linear.
+
+For the forward sorted plot, insertion sort was very fast regardless of n, merge sort increased very
+slightly as n increased, and selection sort took much longer as n increased. Insertion sort has a
+run time of about O(n) when the array is sorted, merge sort has a run time of O(n log n), and 
+selection sort should hav a run time of O(n^2).
+
+For the reverse sorted plot, merge sort was the fastest because the run time was still O(n log n). 
+Although both insertion and selection sort have time complexities of O(n^2), insertion sort twice as
+long as selection. This is because when an array is reversed, that's insertion sort's worst case scenario. 
+For every number, the smallest number is pushed down to the front. For selection sort the number, 
+the number is swapped, so insertion sort is doing more computations than selection.
