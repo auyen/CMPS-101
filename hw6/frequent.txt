@@ -1,0 +1,77 @@
+High Rating: 
+
+coffee, 110725
+taste, 107898
+love, 107259
+flavor, 98502
+tea, 97639
+product, 94119
+food, 84863
+little, 60649
+time, 58329
+amazon, 56355
+tried, 55713
+price, 55471
+buy, 51109
+eat, 47024
+try, 46996
+dog, 45136
+found, 40627
+chocolate, 40005
+bag, 37052
+water, 36128
+
+----------
+
+Low Rating: 
+
+taste, 45743
+product, 41640
+coffee, 34958
+flavor, 32364
+food, 26499
+tea, 23320
+buy, 19755
+time, 16111
+tried, 16090
+amazon, 16066
+box, 15694
+little, 15556
+try, 15062
+bought, 15002
+dog, 14820
+eat, 14439
+love, 14226
+bad, 13603
+water, 13506
+price, 12783
+
+----------
+
+Distinct words after deleting words from low rating tree: 227
+
+----------
+
+
+New Top Twenty Frequency Words: 
+
+boysbr, 17
+bpp, 16
+brained, 16
+boyz, 15
+100000, 14
+brakefast, 14
+1866, 11
+brainerbr, 11
+brotherbr, 10
+boywas, 9
+boyswell, 8
+braising, 8
+cannedbottled, 8
+4512br, 7
+bouncier, 7
+bpas, 7
+40000, 6
+boughtand, 6
+braises, 6
+1868, 5

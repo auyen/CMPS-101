@@ -1,0 +1,45 @@
+High Tree: 
+asymptotic
+Frequency = 0
+Successor = at2020
+binary
+Frequency = 0
+Successor = binaturae
+complexity
+Frequency = 196
+depth
+Frequency = 492
+mergesort
+Frequency = 0
+Successor = merging
+quicksort
+Frequency = 0
+Successor = quickstop
+structure
+Frequency = 74
+theta
+Frequency = 0
+Successor = thethought
+--------------------
+Low Tree: 
+asymptotic
+Frequency = 0
+Successor = asyouneed
+binary
+Frequency = 0
+Successor = binbr
+complexity
+Frequency = 83
+depth
+Frequency = 183
+mergesort
+Frequency = 0
+Successor = merging
+quicksort
+Frequency = 0
+Successor = quickstop
+structure
+Frequency = 27
+theta
+Frequency = 0
+Successor = thevey
