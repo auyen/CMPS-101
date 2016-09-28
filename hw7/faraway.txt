@@ -1,0 +1,11 @@
+7: Tamae Tsumori, Giovanne Taffuri
+7: Frits van Wenkop, Philip A. Scheib
+7: Alex Coutts, Dan Erchun
+7: Kichinosuke Kinoshita, Roy Dart
+7: Miranda Capulet, Elaine Cristin
+
+We added a few lines into the levels functions to print out the set of names that are more than 6 nodes away. 
+This could also be checked by putting the two names into the path function. This was nice because it would
+separate nodes that had a distance of 6 or more by telling exactly how far away they were. It wasn't
+time consuming because it would just print out a few names because there aren't very many nodes at distances of
+7 or more and continue.
